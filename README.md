@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:28/02/2025
+## Register Number:24900184
+## Name:Elaiyavan K
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -11,16 +11,45 @@ Background: Recruitment and Assessment Centre (RAC) under DRDO, Ministry of Defe
 Ministry of Defence
 
 ## Idea
-
+### Virtual Board Room Imitation
+* Realistic interview Encounter with an AI-driven environment.
+* Adjustive questioning that starts with ice-breaking questions and progresses to in-depth techno-managerial questions.
+* Support for live and asynchronous interviews enabling flexibility for candidates and experts.
+### AI-Based Question Relevancy Scoring
+* Ensures that questions posed by experts align with the candidate  area of expertise.
+* Uses Natural Language Methoding (NLP) to evaluate question relevancy.
+* Provides a quantifiable score for expert questioning Productivity.
+### Candidate Answer Evaluation
+* AI evaluates Answers based on relevance depth and clarity.
+* Calculater learning Representations assess the technical and managerial competency of candidates.
+* Experts retain the ability to override AI-Produced scores.
+### Overall Suitability Scoring System
+* Aggregates scores from:
+*Expert  question relevance score.
+*Candidate  Answer relevance score.
+*Provides a final suitability score for unbiased recruitment decisions
 
 ## Proposed Solution / Architecture Diagram
-
+![Proposed Solution (1)](https://github.com/user-attachments/assets/44ffba38-b835-4050-8084-886f0dcddaf6)
 
 ## Use Cases
 
-
 ## Technology Stack
+React.js
 
+Vue.js
+
+Angular
+
+Bootstrap
+
+Material-UI
+
+Tailwind CSS
 
 ## Dependencies
+Mapping service- 15 days
 
+Data collection- 16 days
+
+budget- rs.80,000
