@@ -33,6 +33,7 @@ Ministry of Defence
 ![Proposed Solution (1)](https://github.com/user-attachments/assets/44ffba38-b835-4050-8084-886f0dcddaf6)
 
 ## Use Cases
+![Screenshot 2025-02-28 141941](https://github.com/user-attachments/assets/ef57d33c-f874-446d-a948-a92de98178bd)
 
 ## Technology Stack
 React.js
